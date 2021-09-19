@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Komla
+- 👋 Hi, I’m Komla Darabor
 - 👀 I’m interested in Data analysis.
 - 🌱 I’m currently looking for Data analysis job.
 - 📫 How to reach me at demdarabor@gmail.com
